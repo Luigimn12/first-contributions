@@ -1,3 +1,5 @@
+- [Samiullah](https://github.com/Md-Samiullah01) - Hi, I'm Sami.
+- [Kreyanxh](https://github.com/Kreyanxh) - Hi, I am Kreyansh and this is my first contribution to open source.
 - [Parinita](https://github.com/parinita1005)
 [BHAVISHYA RAJ](https://www.linkedin.com/in/bhavishyaraj) -Let's hv a chat!!
 - [Manas Arora] (https://github.com/manasarora02) - I am Manas and this is the start of my open source journey!
@@ -5,7 +7,7 @@
 
 - [Sachin Deuba](https://github.com/sachindeuba480-lab) - hey folks, i am sachin deuba and this is my first contribu
 
-
+- [Gauri Ojha](https://github.com/gauri212) - Hi, I am Gauri and this is my first contribution
 - [Ehsanullah Farhan](https://github.com/ehsanullahfarhan45-cloud)
 - [Hugo García](https://github.com/albarakas)
  -[Anish_Basnet](https://github.com/anish07353)
@@ -60,6 +62,7 @@ Alliance Ngoy Muya
 - [Hannan Mudassar](https://github.com/h7ncode) - want to build something useful
 - [KarthikVarma19](https://github.com/KarthikVarma19) - System.out.println("Let's Go!, Small Step Every Day");
 - [Lokesh Khodke](https://github.com/Lokesh0652H)
+- [Christian](https://github.com/ch-block-314) - Hi, this is my first contribution!
 - [Ezekiel Matthew Abana](https://github.com/devFiend)
 - [LongTengxu](https://github.com/LongTengxu) - Hello!!
 - [evan-Lin](https://github.com/Evan-lin2005) - My first contribution!
@@ -250,6 +253,7 @@ dudpatil07 i am so happy for my first contribution
 - [Rithul Raveendran](https://github.com/rithulraveendran) - Software Developer & Open Source Contributor
 - [SaifAli-S](https://github.com/SaifAli-S) - My first open source contribution
 - [Saif Ali](https://github.com/SaifAli-S) - Open source contributor
+- [Keerthi Chagam](https://github.com/keerthichagam)
 - [Saif](https://github.com/SaifAli-S) - Software Engineer & Open Source Contributor
 - [Saif S](https://github.com/SaifAli-S) - Building open source software
 - [Despoju](https://github.com/Despoju) 
@@ -497,6 +501,7 @@ https://github.com/mzubairmashal/first-contributions/blob/main/Contributors.md
 - [Aditya Dhamanaskar](https://github.com/adityadhamanaskar4-sys) - This is my first open source contribution!
 - [Rishit Mishra](https://github.com/rishit314) - This is my first contribution!
 - [Nandan](https://github.com/21Nandan) - my first contribuation to the amazing world of open source!
+- [Nuntawat Saehuam](https://github.com/nuntawatt) - My first open source contribution!
 - [Rishav Raj](https://github.com/Rishav-2589) - this is my first contributions 
 - [Manish Reddy](https://github.com/manishreddy1767) - My First Open Source Contribution!
 - [DustanGiles](https://github.com/DustanGiles) - wow my first contribuation to the amazing world of open source!
@@ -4434,6 +4439,7 @@ andrewcodess
 - [Dorcas Adebayor](https://github.com/dokipure)
 - [VV](https://github.com/vv-duan)
 - [Safwan Patel](https://github.com/Mohmedsafwan) - My first open source contribution!
+- [David Stroupe](https://github.com/dnstroupe)
 - [DosCocas](https://github.com/DosCocas)
 - [Dpk](https://github.com/dpkbihani-blip)
 - [Durai Mohandoss](https://github.com/22f1000821)
@@ -4502,6 +4508,7 @@ andrewcodess
 - [Felipe](https://github.com/Fredericrypto)
 - [Sathursa Kulasenthirasegaram](https://github.com/sathursa09)
 - [Felipe](https://github.com/felipemv13)
+- [Parineeta Borah](https://github.com/ParineetaBorah)
 - [FloraPetit](https://github.com/PetitFlora)
 - [PaldenDorjeTitung](https://github.com/paldentitung)
 - [Kirill638849776](https://github.com/Kirill638849776)
@@ -9026,3 +9033,13 @@ Ajay
 - [jptram7](https://github.com/jptram7)
 - [Nimrath Guduru](https://github.com/nimrath457)
 - [Lorren](https://github.com/YULorren) - Claim the title of Elden Lord!
+- [HARIPRASATH K](https://github.com/karthikeyanharisai8642-del)
+- [Saqlain Shaikh](https://github.com/shaikhxsn) - Hello Github
+- [Aditya_Rasal](https://github.com/Adityadrasal007) - Hello GrowthX 
+
+[Henrique Developer](https://github.com/bitzin-dev)
+
+- [Suraj Kumar](https://github.com/suraj-kumar1-8) - Hi, I am Suraj and this is my first open-source contribution!
+- [Mohammad Ibrahim Khan] - First contribution done!
+- Gaurav Verma
+- [Le Wild Homie] - First contribution done!
